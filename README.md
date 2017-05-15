@@ -35,12 +35,18 @@ BSD
 
 ## Want to contribute?
 
-This is the todo list for improving the magic loader 👇:
+📝 This is the todo list for improving the magic loader:
 
 1. JSON file support
 2. Better error handling when no files are found
 3. Better handling when multiple compatible files are found
-4. Remove package dependencies
+
+📦 General package maintenance:
+
+1. Proper version management
+2. Remove package dependencies
+3. Proper licensing
+4. PyPI updates documentation
 
 ## Contributors
 
