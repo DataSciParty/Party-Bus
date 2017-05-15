@@ -25,7 +25,7 @@ Provide an open data URL such as the one below, get back a pandas `DataFrame` wi
 >>> import partybus as pb
 >>>
 >>> data = pb.load('http://data.gov.au/dataset/asic-credit-licensee')
->>> type(csv)
+>>> type(data)
 <class 'pandas.core.frame.DataFrame'>
 ```
 
