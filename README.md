@@ -1,5 +1,5 @@
-# Welcome
-Straight out of the [DataSciParty](http://DataSciParty.github.io) workshop, pumping noise into an otherwise peaceful suburb near you: Welcome to the Party Bus!
+# The Party Bus has arrived! 🎉🚌
+Straight out of the [DataSciParty](http://DataSciParty.github.io) workshop, pumping noise into an otherwise peaceful suburb near you: **Welcome to the Party Bus!**
 
 ## Installation
 
