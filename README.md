@@ -5,13 +5,13 @@ Straight out of the [DataSciParty](http://DataSciParty.github.io) workshop, pump
 
 ### From PyPI
 
-🚌 To get on the Party Bus, you can install using the following command:
+To get on the Party Bus, you can install using the following command:
 
 	pip install partybus
 
 ### From Git
 
-🚌 If you like to live on the wild side, you can install Party Bus from the git repo using the following command:
+If you like to live on the wild side, you can install Party Bus from the git repo using the following command:
 
 	pip install git+https://github.com/DataSciParty/Party-Bus.git
 
@@ -35,13 +35,13 @@ BSD
 
 ## Want to contribute?
 
-📝 This is the todo list for improving the magic loader:
+This is the todo list for improving the magic loader:
 
 1. JSON file support
 2. Better error handling when no files are found
 3. Better handling when multiple compatible files are found
 
-📦 General package maintenance:
+General package maintenance:
 
 1. Proper version management
 2. Remove package dependencies
